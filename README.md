@@ -338,12 +338,12 @@ This project is created for **educational and demonstration purposes**. The pred
 
 ### Jan Sher
 
-**BS Computer Science**
+**Full-Stack Developer | AI/ML Engineer | Deep Learning | LLMs | Generative AI**
+
+**BS Computer Science**  
 University of Management and Technology, Lahore
 
-GitHub: [jansher303](https://github.com/jansher303)
-
----
+GitHub: [@jansher303](https://github.com/jansher303)
 
 ## ⭐ Acknowledgment
 
