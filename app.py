@@ -9,7 +9,7 @@ with open("model.pkl", "rb") as file:
 
 
 # Page title
-st.title("Medical Insurance Cost Prediction")
+st.title("MediCost-AI: Medical Insurance Cost Prediction")
 
 st.write(
     "Enter the person's information below to predict their medical insurance cost."
