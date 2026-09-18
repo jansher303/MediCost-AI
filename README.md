@@ -181,9 +181,23 @@ After entering the information, the trained machine learning model generates the
 
 ### Application Preview
 
-> Screenshots will be added here.
 
----
+#### Streamlit Application
+
+![MediCost-AI Application](screenshots/app-interface.png)
+
+#### Prediction Test 1
+
+![Prediction Test 1](screenshots/prediction-test-1.png)
+
+#### Prediction Test 2
+
+![Prediction Test 2](screenshots/prediction-test-2.png)
+
+#### Actual vs Predicted
+
+![Actual vs Predicted](screenshots/actual-vs-predicted.png)
+
 
 ## 🔄 Machine Learning Workflow
 
