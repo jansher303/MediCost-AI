@@ -14,6 +14,13 @@ Medical insurance charges can vary significantly depending on factors such as ag
 
 The goal of this project is to build a machine learning model that can learn the relationship between these factors and medical insurance charges, and then predict the expected insurance cost for a new individual.
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+[**MediCost-AI — Live Demo**](https://medicost-ai-zgtax33uv6kemctljcfk4w.streamlit.app/)
+
+
 ---
 
 ## 🎯 Objectives
