@@ -324,14 +324,21 @@ The application will open automatically in your web browser.
 
 Possible improvements for future versions include:
 
-* Comparing Multiple Linear Regression with other regression algorithms
-* Hyperparameter tuning
-* Feature engineering
-* Improved UI/UX
-* Interactive data visualizations
-* Cloud deployment
-* Model performance comparison
-* Automated model retraining
+## 🔮 Future Improvements
+
+* Experiment with other regression models such as Random Forest and Gradient Boosting
+* Perform hyperparameter tuning to improve model performance
+* Add more relevant features to improve prediction accuracy
+* Improve the user interface and add additional input validation
+* Add model monitoring and periodic retraining
+## 🔮 Future Improvements
+
+* Experiment with other regression models such as Random Forest and Gradient Boosting
+* Perform hyperparameter tuning to improve model performance
+* Add more relevant features to improve prediction accuracy
+* Improve the user interface and add additional input validation
+* Add model monitoring and periodic retraining
+
 
 ---
 
